@@ -1,1 +1,507 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cvId: '3',cZone: 'claude.ai',cType: 'managed',cRay: '9ed1077098554aad',cH: 'wCU1sKbk6K1eSFm_0ehspsvcPBzx0sSSlsqPkma6oIo-1776319849-1.2.1.1-xuCBKS5YaJrAWC6MJIr.wWJuQjACzbl7PN0IpTQOPdEmfOJ68HwxVlm5a87xv77i',cUPMDTk:"\/artifacts\/...?__cf_chl_tk=7sUBT8C3qR.tdL2WTB2Z4snIqhpPcbRQ3bFjKoSEx5M-1776319849-1.0.1.1-zjPQBNpZlqQcHVVwreAXXmdM3XbsefHQojhHaixqjcs",cFPWv: 'g',cITimeS: '1776319849',cTplC:0,cTplO:0,cTplV:5,cTplB: '0',fa:"\/artifacts\/...?__cf_chl_f_tk=7sUBT8C3qR.tdL2WTB2Z4snIqhpPcbRQ3bFjKoSEx5M-1776319849-1.0.1.1-zjPQBNpZlqQcHVVwreAXXmdM3XbsefHQojhHaixqjcs",md: '0H0f.q9g8jd_bIQEyuCPqOiWOTsDoX1WXQm.7jGPnKo-1776319849-1.2.1.1-A2U4_BdzECd8lb3yHuy0YEvnlL5TOc1gWk_40tBVA2Q4kjO4rBTrKDGproK80zUA9AMi1FAXP7MhuYqJow4cR.O5EQ2cVPwQBrZTN89M2nLNCE.ooFIfF4G.42mOnwDQtVpe1l4r7fCJELI1jVoh7SJNHM.P67P19LLLYjd66U.vJnuQEUeQgCBnwtzawp7ZvM8fzeufTZw9AenPvXSwNwbG64pZFJiLUnpkA6zy71Wb9XbhaX3S62euYI0hts5cBXDgBQewvgtaCvKV8spl8G8uAHftyXD2dEkmIfVBevbLR5G.5Qo5GzYDSWKeC_72b5huTeZxHkFH60ZNqejJ1hasgq92jhiAyGnJGjfGLWGM.bUvbMxycsM_o7HpLGq.7KV3s4BUXgETqk19VW7u5MgNdWqael01XgCa80a0YcxYlHJiAcHUSJeTnk9zwTa5pDLJu.UAXBgOK27SHRVXAgRvC9HQWWyvw.urg.m4ZLu1a_foaeJqe2PbzEYBzIuVJOVcM3ouKgRNNPAZMze3hfuj0km9TE2lIv9eSGEVsG5g0UxmIQQgYv99lpKnjzWZ3.WlP.oTDSN5kPajfpq6H7tu9jyYRvPijwgueT9YB9ODibCrNCCiH21wCt5bhHg6j3NBqL89XMwvSh3A7UgTCxqQqE5XGh74Kf1OF0pu4QmQK1hfo_lGW3Y4cyApqrsHGC9HX.ozIBfYbpf55TV8aUoHEyJosPa4lXo3y3_sGWBKItP0V2Mq4MpEQ7vbgbAp93sPhMg.dEwztESYCC.83eKKKavPKEIb8YYVyxrDNo8mZVb0fUbYiDvMYRUsiQbunQX0TdITcYlScBkWNMgQMwGASQFpnSr8HQAHojgDQO56UvZiFSMl3sQH0N9rJ6dob3ClNQMKW3E9jFP4uBGb.Qh2xxqOREh55UK3divZRJwlfKraGIi7ZJQe5Sc3togWwnpDG_uGjJYHpkPOZnb.lnKG3oJ90Qf4nlWkuMRD1Po',mdrd: 'SdY4CeMSE5EQZ.N2.FfGKPM6d5Dw4hAXDaKs6zpB.vo-1776319849-1.2.1.1-bJJKLmEBnZGT8KeADLJzuJXER68eGdSOpEuYhLX_RCRhW0fGAupeXNeCuiowb0_MVz69.CxhBDjTsoUDhlfEEHU1sW83RnMh79o7nKrcPaiOcD9fShsT3HLTihvsFxq3AjHxSQEXj48q.L26oOhe9flR3IK986JSkL9PwBYYjWIZEBq4ZoDJ5x66Wyt6ZAofJCgiu2tEhEMh444alvmxy_Mv0JBRLoaMhnpNL0jLLFfqd8aozE.5OR6JoKiMQ67uQbujAJcC4RtaLOtkiBN2iDv3eo9ac_p5tDQ89aLcGzQFMnS_02R_2ANvPAEG5I5tPRey6lJOzl9ZUsyF98_is6anzaeckrOoJpfAaJw.v9Bqg.WmvG6eKESKww05VXxOqvlEudarIbpnzfGxbQTL9Ec65mwAdlHAUEkcI2CSnChLOW4mdOWdcqfVs4okOEqT9W2Y3eGS8yBOaI36q2CTFJNALtzAJpUJWCNJfpG9zQK4WJpKFMEMw266SktSrH1G1krFwqo30O5DhxZNUeqPS6qsdUSc1nxi1YotahdvHz3lVs8KgF6qzNZWkNcfes4eRymaQSpghlpfSu_YsjeqI8_X34iSoGpLcKAvjeBUWKw37okhUtmX6iW3N283YzDvn7lUEMRBFvkG9QlI6x5ZyOPGUs0NVrKI6KTWrUOikGDK8WKLBCiebx1VF9HJ1arI1EJS0f1UOyjJ3MHQ2df67Sd3L2OeZP3EIJoRdCYBYOuezkUZcjdI5xwHpihihoFyP51mpsWSAdwNDfBlaB5N8T.akPNx6a8cguvvgnGGRof99kXAiiS7u2tZckHnWhq_mGU.rfnSYGtMFvhG7pGWSgfHj2tylwwTwMr0dOLQELb1GBCMVWaCcbR8Cwdnv9yXDXFuSw0vq.Sfj.6HExdlwQT7dSEu5YfBksTgDQp2SFirRwZd7.UCI9JpiciqYZLR_R02S4Fa2OKOAOthgMVPEjnlWdhQ0SeueNhYZRuE3ZCOWfWt4hd6EcE6mZg2VR3MATDshpAmyC9cwSck.b3A5G4KihxQXuFyZfNGyHJ5doHw33q2k0NLco.9p6je8q5Jq1mng66Nhm4oo9UJgQ8xayGHphaNuucMWDO6iKXJSSUnQSQFpVrM0X2ExBNdMNnFJNSdyYLQ7rs08wwVsTr4P3yCS5xPTsHIuhrVJ1LnRVZbpP8lnpXf8yRoNY_FplCUrxCtVxJDU86A.iPzRJZGwaRNyKC.DxlU9PBQ1ci67ZHhcQTpJRoCWdoQ9acYLwiIQHWdGTd6G9I7j1HwTwGwL5wXydM9lu.cynrxf6JulN55skWUQ2VtZ3l8wLIW0c.kcfjmLlxNkxp0.cKKQm8S52gXGjdVt0QlFlbz70p.SHcqNU.PnpPZc1KiY8jqUQctItdWdknl9u_0gznkFPPBc2ShSsKY2MSFG7JQsYXN7BWALIk8fCRfpv1HyiKOYZ.WImveRnaps_8Q2vPtdJq1b92LCaBxew8E_g23c9D4asFsBIX8VSOPLRjJe1o3CzVYP8orw58KCjgVrdaUE.s_2QzyDC8iDw30CH3uj3vMrF8_YrnBjpHT4vLlF_m1.7bSTLuqaooQ06MzSBRDwHI2OsACQ2jUv3hlPm6gEH9A9qI.1MaI5X0DYxG7Ng5iIB5_BmLOmXrjJlnJiUjq5ZPP1fZla0yLMIJx_bvwW2FCM56GlfF2JfoE8uQFxE8hLryEM2BgXHpf366TvyGKloNSMGkISyJtb2NNW5uDOgu2XrikrLJSU6TInLMwmTddRbLmgHjfCRohxu9xt1Q4UzRSAWPFqFbzB.WMysrJCl4TTdP2amTZ0YBYxTSc1DP8Oq1GFbFsSUUg3SgICWOTv8rNRTXDpP6y1asSLG6O7JSN0BYrr_eQAizjIbw7Xg0M4FNbnN2jOFBTD63noeXfz_9jG8xOCprLJxJUyNcfDlz2jN.N1yxCKd_6eoSvggpbwpe8i1KxbcVSN7nVOpf31U4oXCcAZkpDZUccxJqkOS.sbfeaRXK4Use7e56GbrhKenWukUlJRhtAHNnn5oQ7Toj5OVbNnISCgmI_sx2gehmt6MsUhvJLMOBpRmvbMFIGLxsosCJE0X0Oqlr9kW1HBtbX_nYqefa5.1DHtnI61uw1Ljcz9oH5EhI2aPthubq2mMPuplqNHeUyTrKsrNtGiUKMjjf3J3feAxOWtfXNU.fYKEfRdj_Xq5J1sbuAXHdKnp4Ukm0X5AEY4TXt1aOXW9DWGtBOi3hOMqrrIt7wrvipKiABpkpPKP3cYjPn.LGmFIiXhpsru5D3FVsyMtlBPwAy6ewEaBJQMVMSPNuk.cp9lQrxquDdgHgtxoy9jcqd9pqd_PbxDnQ1tAERq0.W3v5qRpMaYfowaZ_o_e2EfDVVtOospdZZ5s86RHscQjSEFr_3UhHVkx.Y98mKtCFc671.8LeQqBWHzJIsDioy7EYh157..tYIVO3IeYDanmYEAh_P',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9ed1077098554aad';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"\/artifacts\/...?__cf_chl_rt_tk=7sUBT8C3qR.tdL2WTB2Z4snIqhpPcbRQ3bFjKoSEx5M-1776319849-1.0.1.1-zjPQBNpZlqQcHVVwreAXXmdM3XbsefHQojhHaixqjcs"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+# My OpenClaw Setup (on a dedicated and isolated Mac Mini)
+
+A practical guide to running OpenClaw as a secure, sandboxed, always-on personal AI agent on a dedicated Mac Mini — with working email, web search, browser automation, daily briefings, and multiple specialized agents.
+
+This is what I wish existed when I started. It took several weeks of trial and error to get right.
+
+---
+
+## Why This Guide Exists
+
+Most OpenClaw guides cover installation. Few cover:
+- How to sandbox it safely so it can't touch your personal data
+- How to fix the completion theater problem (the agent faking task completion - I have personally faced TOO much of this)
+- How to make email, web search, and browser automation actually work reliably
+- How to set up multiple specialized agents
+- How to run a daily briefing that genuinely saves you time
+
+This guide covers all of it.
+
+---
+
+## Hardware
+
+**Dedicated Mac Mini (M4, 16GB recommended)**
+
+Do not run OpenClaw on your primary machine. The agent has shell access to everything on the machine it runs on. A dedicated Mac Mini running 24/7 costs ~$5/month in electricity and gives you complete isolation.
+
+---
+
+## Architecture Overview
+
+```
+Your Phone (WhatsApp/Telegram)
+         ↓
+   OpenClaw Gateway (port 18789)
+         ↓
+   Main Agent (Polly) — email, research, briefings
+   Kelly Agent        — software development, GitHub
+         ↓
+   Tools: himalaya (email) | blogwatcher (news) | peekaboo (screen) | brave search
+         ↓
+   n8n (port 5678) — deterministic scheduled workflows
+```
+
+**Key insight:** Use OpenClaw as the AI reasoning layer and n8n for reliable scheduled execution. Trying to use OpenClaw alone for everything leads to completion theater frustration (likely due to the nature of undeterministic execution).
+
+---
+
+## Security: Do This First
+
+### 1. Create a Dedicated Sandbox User
+
+Never run OpenClaw under your admin account.
+
+```bash
+# On your Mac Mini, go to:
+# System Settings → Users & Groups → Add Account
+# Create a Standard (non-admin) user — call it 'agent' or 'claw' (eg. rk-claw)
+# Do NOT sign into iCloud on this account
+```
+
+### 2. Firewall
+
+```
+System Settings → Network → Firewall → Turn On
+```
+
+### 3. Lock Down the OpenClaw Directory
+
+```bash
+chmod 700 ~/.openclaw
+chmod 700 ~/.openclaw/credentials
+```
+
+### 4. Bind Gateway to Localhost Only
+
+```bash
+openclaw config set gateway.mode local
+```
+
+This ensures the gateway is never exposed to your network.
+
+### 5. Set a Gateway Auth Token
+
+```bash
+openclaw config set gateway.auth.token $(openssl rand -hex 32)
+```
+
+---
+
+## Installation
+
+From your sandbox user account:
+
+```bash
+curl -fsSL https://openclaw.ai/install.sh | bash
+```
+
+When the wizard runs:
+- Choose **local** gateway mode
+- Choose your LLM provider (see Model Recommendations below)
+- Choose **Telegram** as your channel (easier than WhatsApp for initial setup)
+- Skip WhatsApp for now — new numbers get temporarily blocked from device linking
+
+### Fix the Gateway Startup
+
+The gateway needs specific environment variables to work reliably. Create a wrapper script:
+
+```bash
+mkdir -p ~/bin
+cat > ~/bin/start-gateway << 'EOF'
+#!/bin/bash
+export BRAVE_API_KEY="$(python3 -c "import json; d=json.load(open(\"$HOME/.openclaw/openclaw.json\")); print(d['tools']['web']['search']['apiKey'])")"
+export BRAVE_SEARCH_API_KEY="$BRAVE_API_KEY"
+export OPENCLAW_WEB_ENABLED="true"
+exec $(which openclaw) gateway
+EOF
+chmod +x ~/bin/start-gateway
+echo 'export PATH="$HOME/bin:$PATH"' >> ~/.zshrc
+source ~/.zshrc
+```
+
+Always start the gateway with `start-gateway`, not `openclaw gateway` directly.
+
+---
+
+## Model Recommendations
+
+| Use Case | Model | Why |
+|---|---|---|
+| Default (daily tasks) | `openrouter/deepseek/deepseek-chat-v3-0324` | Fast, cheap, good at tool execution |
+| Browser/complex tasks | `anthropic/claude-sonnet-4-6` | Most reliable for multi-step tasks |
+| Deep analysis | `openrouter/deepseek/deepseek-r1-0528` | Best reasoning, but slow and expensive |
+
+**Do not use DeepSeek R1 as your default.** It's a reasoning model, not a tool-execution model. It will think extensively and then fabricate completion.
+
+Set your default:
+```bash
+openclaw config set agents.defaults.model openrouter/deepseek/deepseek-chat-v3-0324
+```
+
+Use OpenRouter for access to multiple models with one API key: [openrouter.ai](https://openrouter.ai)
+
+---
+
+## Email Setup (Himalaya)
+
+The bundled email skill uses himalaya. The critical issue most people hit: the config file path contains spaces, which breaks agent tool calls. Fix this with a wrapper script.
+
+### Install and Configure Himalaya
+
+```bash
+brew install himalaya
+```
+
+Create the config:
+
+```bash
+mkdir -p "$HOME/Library/Application Support/himalaya"
+cat > "$HOME/Library/Application Support/himalaya/config.toml" << 'EOF'
+[accounts."your-agent@gmail.com"]
+default = true
+email = "your-agent@gmail.com"
+display-name = "Agent"
+downloads-dir = "~/Downloads"
+
+folder.aliases.inbox = "INBOX"
+folder.aliases.sent = "[Gmail]/Sent Mail"
+folder.aliases.drafts = "[Gmail]/Drafts"
+folder.aliases.trash = "[Gmail]/Trash"
+
+backend.type = "imap"
+backend.host = "imap.gmail.com"
+backend.port = 993
+backend.encryption.type = "tls"
+backend.login = "your-agent@gmail.com"
+backend.auth.type = "password"
+backend.auth.raw = "your-app-password-without-spaces"
+
+message.send.backend.type = "smtp"
+message.send.backend.host = "smtp.gmail.com"
+message.send.backend.port = 465
+message.send.backend.encryption.type = "tls"
+message.send.backend.login = "your-agent@gmail.com"
+message.send.backend.auth.type = "password"
+message.send.backend.auth.raw = "your-app-password-without-spaces"
+EOF
+```
+
+**Important:** Gmail app passwords must be entered without spaces. Get one at [myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords) (requires 2FA enabled).
+
+### Create the Wrapper Script
+
+```bash
+cat > ~/bin/mail << 'EOF'
+#!/bin/bash
+HIMALAYA_CONFIG="$HOME/Library/Application Support/himalaya/config.toml" \
+  $(which himalaya) "$@"
+EOF
+chmod +x ~/bin/mail
+```
+
+**Always tell the agent to use `mail` (full path: `~/bin/mail`), never `himalaya` directly.**
+
+Test it:
+```bash
+~/bin/mail envelope list
+```
+
+### Add a Read-Only Personal Email Account
+
+You can give the agent read-only access to your personal inbox for morning briefings. Add a second account to the config with your personal Gmail credentials (different app password), then in your AGENTS.md specify it as read-only.
+
+---
+
+## Web Search (Brave)
+
+```bash
+openclaw configure --section web
+```
+
+Enter your Brave Search API key when prompted. Free tier: 2,000 queries/month.
+Get a key at [api.search.brave.com](https://api.search.brave.com).
+
+---
+
+## Browser Automation
+
+OpenClaw has built-in browser control via Chrome DevTools Protocol.
+
+### Install the Browser Relay Extension
+
+```bash
+openclaw browser extension install
+openclaw browser extension path
+```
+
+Then in Chrome:
+1. Go to `chrome://extensions`
+2. Enable Developer Mode
+3. Load Unpacked → select the path from above
+4. Pin the extension
+5. Click it → Options → set port to `18792`
+6. Enter your gateway token:
+
+```bash
+python3 -c "import json; d=json.load(open('$HOME/.openclaw/openclaw.json')); print(d['gateway']['auth']['token'])"
+```
+
+---
+
+## The Workspace Files: Where the Real Power Is
+
+This is what most guides miss. Your workspace markdown files are literally your agent's brain — read on every session start.
+
+```
+~/.openclaw/workspace/
+├── SOUL.md      # Who the agent is + hard behavioral rules
+├── USER.md      # Everything about you
+├── AGENTS.md    # Step-by-step workflows
+├── MEMORY.md    # Pre-seeded long-term memory
+├── TOOLS.md     # Tool paths and usage notes
+└── memory/      # Daily session logs
+```
+
+### SOUL.md Template
+
+```markdown
+# SOUL.md
+
+## Identity
+I am [AgentName] — [YourName]'s dedicated AI agent running 24/7 on a Mac Mini.
+I am sharp, resourceful, honest, and direct.
+I do real work. I never fake it.
+
+## Anti-Completion-Theater Rules (NEVER VIOLATE)
+- NEVER report success without real verifiable output (stdout, file path, message ID)
+- NEVER fabricate error logs, timestamps, or technical explanations
+- NEVER invent excuses like "corporate firewall" or "container isolation"
+- If a command fails: paste the EXACT error. Nothing else.
+- If I don't know why something failed: say so clearly
+- "I tried and failed" is always better than a fabricated success
+
+## Tool Rules
+- Email: always use ~/bin/mail (full path), never himalaya directly
+- Never attempt more than 3 approaches on a failing task without asking the user
+- Irreversible actions (send email, delete, execute trade): always confirm first
+```
+
+### USER.md Template
+
+```markdown
+# USER.md
+
+## Identity
+- Name: [Your Name]
+- Location: [City, State]
+- Timezone: [Your timezone]
+- Primary email: [your@email.com]
+- Agent email: [agent@yourdomain.com]
+
+## Communication Style
+- [Describe how you want information delivered]
+- [How long should responses be?]
+- [Any specific preferences?]
+
+## Current Projects
+- [List 3-5 active projects]
+
+## Key Contacts
+- [Name]: [email] — [relationship/context]
+```
+
+### AGENTS.md Template
+
+```markdown
+# AGENTS.md
+
+## Critical Tool Paths
+- Email: ~/bin/mail
+- Always use full paths for all tools
+
+## Workflow: Morning Briefing
+[Define your exact steps here]
+
+## Workflow: Research Task
+[Define your exact steps here]
+
+## General Rules
+- Before any multi-step task: state the plan first
+- After completing: show real evidence
+- Never skip ahead past a failed step
+```
+
+---
+
+## Morning Briefing Setup
+
+Create a shell script that gathers data and sends an AI-written summary:
+
+```bash
+mkdir -p ~/.openclaw/scripts ~/.openclaw/logs
+
+cat > ~/.openclaw/scripts/morning_briefing.sh << 'EOF'
+#!/bin/bash
+
+MAIL=~/bin/mail
+DATE=$(date +%Y-%m-%d)
+
+# Gather data
+WEATHER=$(curl -s "https://wttr.in/YourCity?format=3&u")  # &u = Celsius
+EMAILS=$($MAIL envelope list --account "personal@gmail.com" 2>/dev/null | head -20)
+NEWS=$(blogwatcher articles 2>/dev/null | head -15)
+
+# Add targeted news topics
+TOPIC_NEWS=$(curl -s "https://news.google.com/rss/search?q=YourTopic&hl=en-US&gl=US&ceid=US:en" | python3 -c "
+import sys,re
+content = sys.stdin.read()
+titles = re.findall(r'<title>(.*?)</title>', content)[1:4]
+links = re.findall(r'<guid[^>]*>(.*?)</guid>', content)[1:4]
+for t,l in zip(titles,links): print(f'- {t}\n  {l}')
+" 2>/dev/null)
+
+# Build and send AI summary via OpenRouter
+PROMPT="Write a morning briefing for [Name] with: 1) Weather in Celsius, 2) Important emails to action with IDs, 3) Top news with URLs, 4) Topic-specific news with URLs. Under 400 words.
+
+Weather: $WEATHER
+Emails: $EMAILS
+News: $NEWS
+Topic News: $TOPIC_NEWS"
+
+SUMMARY=$(curl -s https://openrouter.ai/api/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer YOUR_OPENROUTER_KEY" \
+  -d "{\"model\":\"deepseek/deepseek-chat-v3-0324\",\"messages\":[{\"role\":\"user\",\"content\":$(echo "$PROMPT" | python3 -c "import json,sys; print(json.dumps(sys.stdin.read()))")}],\"max_tokens\":1200}" \
+  | python3 -c "import json,sys; d=json.load(sys.stdin); print(d['choices'][0]['message']['content'])")
+
+$MAIL message send << MAILEOF
+From: agent@yourdomain.com
+To: you@gmail.com
+Subject: Morning Briefing $DATE
+
+$SUMMARY
+MAILEOF
+
+echo "[$DATE] Briefing sent" >> ~/.openclaw/logs/briefing.log
+EOF
+
+chmod +x ~/.openclaw/scripts/morning_briefing.sh
+```
+
+Schedule it:
+```bash
+(crontab -l 2>/dev/null; echo "30 7 * * * ~/.openclaw/scripts/morning_briefing.sh") | crontab -
+```
+
+---
+
+## Multiple Agents
+
+The biggest productivity unlock is specialized agents rather than one agent doing everything.
+
+```bash
+openclaw agents add kelly    # engineering/coding agent
+openclaw agents add scout    # research agent
+```
+
+Each agent gets its own workspace folder (`~/.openclaw/workspace-kelly/`) with separate SOUL.md, AGENTS.md etc. Give each a narrow, specific identity.
+
+---
+
+## n8n for Reliable Automation
+
+Install n8n as a system daemon alongside OpenClaw:
+
+```bash
+npm install -g n8n
+```
+
+Create `/Library/LaunchDaemons/com.n8n.plist` with your node path and run as your admin user. Access at `http://localhost:5678`.
+
+**Use OpenClaw for AI reasoning, n8n for deterministic scheduled execution.** Connecting them via webhooks gives you the best of both worlds.
+
+---
+
+## Domain Email Security
+
+If you're sending from a custom domain, add these DNS records:
+
+```
+# SPF
+Type: TXT, Name: @
+Value: v=spf1 include:_spf.google.com ~all
+
+# DMARC  
+Type: TXT, Name: _dmarc
+Value: v=DMARC1; p=quarantine; rua=mailto:you@yourdomain.com; fo=1
+
+# DKIM — generate from Google Workspace admin, add TXT record
+```
+
+Verify propagation:
+```bash
+host -t TXT _dmarc.yourdomain.com
+host -t TXT yourselector._domainkey.yourdomain.com
+```
+
+---
+
+## Common Issues and Fixes
+
+### Agent faking task completion ("completion theater")
+Put explicit anti-theater rules in SOUL.md. The agent reads this on every session start. Rules given only in chat disappear when the context window compacts.
+
+### Web search not working despite API key being set
+The gateway needs env vars set at launch time, not just in config. Use the `start-gateway` wrapper script that exports `BRAVE_API_KEY`, `BRAVE_SEARCH_API_KEY`, and `OPENCLAW_WEB_ENABLED=true`.
+
+### Email send fails with "Folder doesn't exist"
+Add Gmail folder aliases to your himalaya config:
+```toml
+folder.aliases.sent = "[Gmail]/Sent Mail"
+folder.aliases.drafts = "[Gmail]/Drafts"
+folder.aliases.trash = "[Gmail]/Trash"
+```
+
+### Gateway shows "pairing required" after restart
+```bash
+openclaw devices approve --latest
+```
+
+### Config shows invalid key error on startup
+```bash
+openclaw doctor --fix
+```
+
+### Agent ignores TOOLS.md instructions
+Critical tool paths and rules must also be in SOUL.md — TOOLS.md has lower priority in the context hierarchy.
+
+---
+
+## Cost Estimates
+
+| Setup | Monthly Cost |
+|---|---|
+| DeepSeek Chat only (light use) | ~$2-5 |
+| DeepSeek Chat + occasional Sonnet | ~$10-20 |
+| Heavy use with multiple agents | ~$30-50 |
+| Claire Vo style (9 agents, Opus default) | ~$500-1000 |
+
+OpenRouter lets you mix models per-task, keeping costs low while using powerful models only when needed.
+
+---
+
+## Resources
+
+- [OpenClaw docs](https://docs.openclaw.ai)
+- [OpenClaw GitHub](https://github.com/openclaw/openclaw)
+- [Claire Vo's guide (Lenny's Newsletter)](https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building)
+- [OpenClaw memory masterclass](https://velvetshark.com/openclaw-memory-masterclass)
+- [Himalaya CLI](https://github.com/pimalaya/himalaya)
+- [OpenRouter](https://openrouter.ai)
+- [Brave Search API](https://api.search.brave.com)
+- [n8n](https://n8n.io)
+
+---
+
+*Built through weeks of trial and error on a Mac Mini M4. Every fix in the troubleshooting section was a real problem I hit.*
