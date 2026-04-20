@@ -485,7 +485,6 @@ Critical tool paths and rules must also be in SOUL.md — TOOLS.md has lower pri
 | DeepSeek Chat only (light use) | ~$2-5 |
 | DeepSeek Chat + occasional Sonnet | ~$10-20 |
 | Heavy use with multiple agents | ~$30-50 |
-| Claire Vo style (9 agents, Opus default) | ~$500-1000 |
 
 OpenRouter lets you mix models per-task, keeping costs low while using powerful models only when needed.
 
@@ -495,7 +494,7 @@ OpenRouter lets you mix models per-task, keeping costs low while using powerful 
 
 - [OpenClaw docs](https://docs.openclaw.ai)
 - [OpenClaw GitHub](https://github.com/openclaw/openclaw)
-- [Claire Vo's guide (Lenny's Newsletter)](https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building)
+- [Claire Vo's guide - HIGHLY RECOMMENDED (Lenny's Newsletter)](https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building)
 - [OpenClaw memory masterclass](https://velvetshark.com/openclaw-memory-masterclass)
 - [Himalaya CLI](https://github.com/pimalaya/himalaya)
 - [OpenRouter](https://openrouter.ai)
@@ -503,5 +502,3 @@ OpenRouter lets you mix models per-task, keeping costs low while using powerful 
 - [n8n](https://n8n.io)
 
 ---
-
-*Built through weeks of trial and error on a Mac Mini M4. Every fix in the troubleshooting section was a real problem I hit.*
