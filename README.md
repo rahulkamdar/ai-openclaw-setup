@@ -1,8 +1,8 @@
-# My OpenClaw Setup (on a dedicated and isolated Mac Mini)
+# Tips and Suggestions from my setup
 
 A practical guide to running OpenClaw as a secure, sandboxed, always-on personal AI agent on a dedicated Mac Mini — with working email, web search, browser automation, daily briefings, and multiple specialized agents.
 
-This is what I wish existed when I started. It took several weeks of trial and error to get right.
+This is what I personally wish existed when I started. It took several weeks of trial and error to get here. That said, this is a very personal setup and may/may-not work for your needs so use at your own discretion.
 
 ---
 
@@ -23,7 +23,7 @@ This guide covers all of it.
 
 **Dedicated Mac Mini (M4, 16GB recommended)**
 
-Do not run OpenClaw on your primary machine. The agent has shell access to everything on the machine it runs on. A dedicated Mac Mini running 24/7 costs ~$5/month in electricity and gives you complete isolation.
+Do not run OpenClaw on your primary machine. The agent preferably has shell access to everything on the machine it runs on. A dedicated Mac Mini running 24/7 costs ~$5/month in electricity and gives you complete isolation.
 
 ---
 
